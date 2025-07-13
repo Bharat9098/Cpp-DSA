@@ -15,6 +15,7 @@ void invertedPyramid(int n){
     for(int k = 0; k < n-i; k++){
       cout << "* ";
     }
+
     cout << endl;
   }
 }
