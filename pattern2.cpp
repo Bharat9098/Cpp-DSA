@@ -4,6 +4,8 @@
    // * * 
     // * 
 
+// configuring git from vs code
+
 #include<iostream>
 using namespace std;
 
